@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sherlok235
 - 👀 I’m interested in all
 - 🌱 I’m currently learning Qt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ? , easy , just install telegram and click on this link https://t.me/NowImNokia
 
 <!---
 sherlok235/sherlok235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
