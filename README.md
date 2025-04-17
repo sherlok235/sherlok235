@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sherlok235
 - 👀 I’m interested in all
-- 🌱 I’m currently learning Qt
+- 🌱 I'm living my life now.
 - 📫 How to reach me ?
 
 <!---
